@@ -20,16 +20,11 @@ console.log(variable.length);
 // 6.onsole.log(Number.parseInt("423.099aa")) // 423
 // 7.console.log(Number.parseFloat("423.099aa").toFixed(2)) // "423.09" 
 // 8.console.log(myfloat.toSting());
-
 // chainning - combining methods using . operator 
-
 // 9.console.log(isNaN("Dhuddu")) // true
 // 10.console.log(Number.isNaN("Dhuddu")) // false
-
-
 // let --> we can change
 // const --> we can't change 
-
 // str="mathematics";
 // 1.str.length;
 // 2.str.charAt(0);
