@@ -56,3 +56,27 @@ console.log(variable.length);
 // let fullPrice = 0,
 // const myArray = [];
 // const myObject = {};
+
+// let petName = "Rocky"; // Global Variable
+// myFunction();
+
+// function myFunction() {
+//     console.log("Inside myFunction - Type of petName:", typeof petName);
+//     console.log("Inside myFunction - petName:", petName);
+// }
+
+// console.log("Outside myFunction - Type of petName:", typeof petName);
+// console.log("Outside myFunction - petName:", petName);
+
+// function foo() { 
+//     let b = 1; 
+//     function inner() { 
+//         return b; 
+//     } 
+//     return inner; 
+// } 
+// let get_func_inner = foo(); 
+
+// console.log(get_func_inner()); 
+// console.log(get_func_inner()); 
+// console.log(get_func_inner());
