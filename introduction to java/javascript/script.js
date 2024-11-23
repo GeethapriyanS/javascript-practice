@@ -36,10 +36,8 @@ console.log(variable.length);
 // 8.str.includes("mat"); // return true
 // 9.str.split('e'); // ['math','matics']
 
-
 // let firstName, lastName, price, discount, fullPrice;
-
-// // Use later
+//  Use later
 // firstName = "John";
 // lastName = "Doe";
 
